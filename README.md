@@ -5,3 +5,4 @@
 # An Extension of Linear Discriminant Analysis for Multi-Label Data
 by Britt Broere (s2388367)
 
+Final thesis for the Master Data Science: Statistical Science of the Leiden University. 
