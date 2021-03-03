@@ -28,6 +28,7 @@ drugdat <- read.table('https://archive.ics.uci.edu/ml/machine-learning-databases
 #drugdat <- read.table('drug_consumption.data', sep = ",")
 
 
+
 # change codes of drug use
 for (v in 14:32){
   drugdat[,v] = ifelse(drugdat[,v] == "CL3", 1, ifelse(drugdat[,v] == "CL4", 1, ifelse(drugdat[, v] == "CL5",1, ifelse(drugdat[,v] == "CL6", 1, 0))))
