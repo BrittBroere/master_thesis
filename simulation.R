@@ -1,4 +1,3 @@
-
 ###########################################################################################################################
 ### It should be noted that the end result of this simulation study (simulated.sum) is a matrix of size 144 x 7.        ###
 ### As described in the thesis, this matrix is split up in three smaller matrices. From these smaller matrices,         ###
